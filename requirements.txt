@@ -4,4 +4,5 @@ requests
 akshare
 tqdm
 lxml
+matplotlib
 beautifulsoup4
