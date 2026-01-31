@@ -1,0 +1,7 @@
+streamlit
+pandas
+requests
+akshare
+tqdm
+lxml
+beautifulsoup4
